@@ -1,0 +1,113 @@
+.content-login-atlet {
+    margin-top: 60px;
+    background: #FFF;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 40%;
+}
+
+.column-form-login {
+    float: left;
+    width: 60%;
+}
+
+/* Clear floats after the columns */
+.rows:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.bg-login {
+    /*background-image: url(../img/bg-login.jpg);*/
+    background-image: url(../img/banner.jpg);
+
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+
+       
+}
+
+.column-left {
+    padding: 148px 90px;
+    background-color: rgb(0, 0, 0, 0.5);
+}
+
+.text-white {
+    color: #FFF;
+}
+
+.column-form {
+    padding: 50px 180px;
+}
+
+.column-form-registrasi {
+    padding: 10px 180px;
+}
+
+@media (max-width:767px) {
+    .column-form {
+        padding: 50px 50px;
+    }
+
+    .column-form-login {
+        float: left;
+        width: 100%;
+    }
+
+    .column-form-registrasi {
+        padding: 50px 50px;
+    }
+}
+
+
+
+
+.btn-dark {
+    color: #fff;
+    background-color: #2C3E50;
+    border-color: #2C3E50;
+}
+.btn-dark:hover, .btn-dark:focus, .btn-dark.focus, .btn-dark:active, .btn-dark.active, .open>.dropdown-toggle.btn-dark {
+    color: #fff;
+    background-color: #2C3E50;
+    border-color: #2C3E50;
+}
+.btn-dark:active, .btn-dark.active, .open>.dropdown-toggle.btn-dark {
+    background-image: none;
+}
+.btn-dark.disabled, .btn-dark[disabled], fieldset[disabled] .btn-dark, .btn-dark.disabled:hover, .btn-dark[disabled]:hover, fieldset[disabled] .btn-dark:hover, .btn-dark.disabled:focus, .btn-dark[disabled]:focus, fieldset[disabled] .btn-dark:focus, .btn-dark.disabled.focus, .btn-dark[disabled].focus, fieldset[disabled] .btn-dark.focus, .btn-dark.disabled:active, .btn-dark[disabled]:active, fieldset[disabled] .btn-dark:active, .btn-dark.disabled.active, .btn-dark[disabled].active, fieldset[disabled] .btn-dark.active {
+    background-color: #2C3E50;
+    border-color: #2C3E50;
+}
+.btn-dark .badge {
+    color: #2C3E50;
+    background-color: #fff;
+}
+
+.btn-back-home {
+    color: #fff;
+    border-color: #fff;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.btn-back-home:hover, .btn-back-home:focus, .btn-back-home.focus, .btn-back-home:active, .btn-back-home.active, .open>.dropdown-toggle.btn-back-home {
+    color: #fff;
+    background-color: #2C3E50;
+    border-color: #2C3E50;
+    transition: 0.3s;
+}
+.btn-back-home:active, .btn-back-home.active, .open>.dropdown-toggle.btn-back-home {
+    background-image: none;
+}
+.btn-back-home.disabled, .btn-back-home[disabled], fieldset[disabled] .btn-back-home, .btn-back-home.disabled:hover, .btn-back-home[disabled]:hover, fieldset[disabled] .btn-back-home:hover, .btn-back-home.disabled:focus, .btn-back-home[disabled]:focus, fieldset[disabled] .btn-back-home:focus, .btn-back-home.disabled.focus, .btn-back-home[disabled].focus, fieldset[disabled] .btn-back-home.focus, .btn-back-home.disabled:active, .btn-back-home[disabled]:active, fieldset[disabled] .btn-back-home:active, .btn-back-home.disabled.active, .btn-back-home[disabled].active, fieldset[disabled] .btn-back-home.active {
+    background-color: #fff;
+    border-color: #fff;
+}
+.btn-back-home .badge {
+    color: #fff;
+    background-color: #fff;
+}

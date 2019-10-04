@@ -1,0 +1,394 @@
+[12-Aug-2018 14:32:47 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::save() in /home/incodder/public_html/lyra/application/models/Register_model.php on line 24
+[14-Aug-2018 07:56:30 America/Chicago] PHP Fatal error:  Call to a member function view() on a non-object in /home/incodder/public_html/lyra/application/controllers/Event.php on line 34
+[14-Aug-2018 11:18:21 America/Chicago] PHP Parse error:  syntax error, unexpected ''/registrasi'' (T_CONSTANT_ENCAPSED_STRING) in /home/incodder/public_html/lyra/application/views/front/atlet/login.php on line 78
+[16-Aug-2018 10:32:54 America/Chicago] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/incodder/public_html/lyra/application/controllers/Login.php on line 43
+[16-Aug-2018 10:51:14 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/incodder/public_html/lyra/application/controllers/Login.php on line 63
+[16-Aug-2018 10:52:17 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/incodder/public_html/lyra/application/controllers/Login.php on line 63
+[16-Aug-2018 10:52:44 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/incodder/public_html/lyra/application/controllers/Login.php on line 63
+[16-Aug-2018 10:52:50 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/incodder/public_html/lyra/application/controllers/Login.php on line 63
+[16-Aug-2018 10:53:25 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/incodder/public_html/lyra/application/controllers/Login.php on line 63
+[16-Aug-2018 10:53:43 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/incodder/public_html/lyra/application/controllers/Login.php on line 63
+[24-Aug-2018 10:43:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home/incodder/public_html/lyra/application/controllers/Club.php on line 62
+[24-Aug-2018 10:43:47 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/incodder/public_html/lyra/application/controllers/Club.php on line 62
+[24-Aug-2018 10:45:40 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/incodder/public_html/lyra/application/controllers/Club.php on line 62
+[24-Aug-2018 13:01:54 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 593920 bytes) in /home/incodder/public_html/lyra/system/core/Loader.php on line 992
+[24-Aug-2018 13:02:03 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 593920 bytes) in /home/incodder/public_html/lyra/system/core/Loader.php on line 992
+[24-Aug-2018 13:02:29 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 593920 bytes) in /home/incodder/public_html/lyra/system/core/Loader.php on line 992
+[24-Aug-2018 13:04:50 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 593920 bytes) in /home/incodder/public_html/lyra/system/core/Loader.php on line 992
+[24-Aug-2018 13:04:54 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 593920 bytes) in /home/incodder/public_html/lyra/system/core/Loader.php on line 992
+[24-Aug-2018 13:11:47 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 593920 bytes) in /home/incodder/public_html/lyra/system/core/Loader.php on line 992
+[24-Aug-2018 13:11:56 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 593920 bytes) in /home/incodder/public_html/lyra/system/core/Loader.php on line 992
+[24-Aug-2018 13:12:56 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 593920 bytes) in /home/incodder/public_html/lyra/system/core/Loader.php on line 992
+[24-Aug-2018 14:37:42 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_kota() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 64
+[24-Aug-2018 14:47:43 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 45
+[24-Aug-2018 16:45:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 73
+[02-Sep-2018 12:31:34 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 35
+[02-Sep-2018 22:11:58 America/Chicago] PHP Parse error:  syntax error, unexpected ''name_eo'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 115
+[02-Sep-2018 22:46:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/views/eo/profil.php on line 79
+[02-Sep-2018 22:47:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/views/eo/profil.php on line 79
+[03-Sep-2018 00:50:03 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/incodder/public_html/lyra/application/views/master_template.php on line 35
+[03-Sep-2018 00:50:17 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/incodder/public_html/lyra/application/views/master_template.php on line 35
+[03-Sep-2018 06:37:29 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/incodder/public_html/lyra/application/controllers/Club.php on line 104
+[03-Sep-2018 06:37:59 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/incodder/public_html/lyra/application/controllers/Club.php on line 104
+[03-Sep-2018 06:46:25 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 45
+[03-Sep-2018 07:21:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 131
+[03-Sep-2018 07:21:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 131
+[03-Sep-2018 23:22:15 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/incodder/public_html/lyra/application/controllers/Club.php on line 30
+[03-Sep-2018 23:22:31 America/Chicago] PHP Fatal error:  Cannot access empty property in /home/incodder/public_html/lyra/system/core/Model.php on line 73
+[03-Sep-2018 23:23:04 America/Chicago] PHP Fatal error:  Cannot access empty property in /home/incodder/public_html/lyra/system/core/Model.php on line 73
+[03-Sep-2018 23:51:12 America/Chicago] PHP Fatal error:  Call to undefined method Club_model::update_profil() in /home/incodder/public_html/lyra/application/controllers/Club.php on line 62
+[03-Sep-2018 23:56:35 America/Chicago] PHP Fatal error:  Call to undefined method Club_model::update_profil() in /home/incodder/public_html/lyra/application/controllers/Club.php on line 62
+[03-Sep-2018 23:58:16 America/Chicago] PHP Fatal error:  Call to undefined method Club_model::update_profil() in /home/incodder/public_html/lyra/application/controllers/Club.php on line 63
+[04-Sep-2018 00:50:50 America/Chicago] PHP Fatal error:  Call to a member function get_class() on a non-object in /home/incodder/public_html/lyra/application/controllers/Club.php on line 90
+[04-Sep-2018 00:51:16 America/Chicago] PHP Fatal error:  Call to a member function get_class() on a non-object in /home/incodder/public_html/lyra/application/controllers/Club.php on line 91
+[04-Sep-2018 04:49:06 America/Chicago] PHP Fatal error:  Call to undefined function DateTime() in /home/incodder/public_html/lyra/application/views/club/form_athlete.php on line 65
+[04-Sep-2018 14:28:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/incodder/public_html/lyra/application/views/master_template.php on line 123
+[04-Sep-2018 14:28:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/incodder/public_html/lyra/application/views/master_template.php on line 123
+[04-Sep-2018 14:29:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/incodder/public_html/lyra/application/views/master_template.php on line 124
+[04-Sep-2018 14:31:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 33
+[04-Sep-2018 15:47:11 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/incodder/public_html/lyra/application/views/athlete/profil_js.php on line 111
+[06-Sep-2018 01:52:30 America/Chicago] PHP Fatal error:  Call to undefined method CI_Loader::viwe() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 41
+[06-Sep-2018 01:52:30 America/Chicago] PHP Fatal error:  Call to undefined method CI_Loader::viwe() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 41
+[06-Sep-2018 09:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil_js.php on line 120
+[07-Sep-2018 15:24:23 America/Chicago] PHP Fatal error:  Cannot redeclare Athlete::event() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 158
+[07-Sep-2018 15:25:07 America/Chicago] PHP Fatal error:  Call to a member function get_event() on a non-object in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 149
+[07-Sep-2018 15:47:55 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/incodder/public_html/lyra/application/views/front/page/home.php on line 69
+[07-Sep-2018 15:53:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/front/page/event.php on line 186
+[07-Sep-2018 15:54:20 America/Chicago] PHP Fatal error:  Call to a member function get_event() on a non-object in /home/incodder/public_html/lyra/application/controllers/Event.php on line 25
+[07-Sep-2018 15:54:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/front/page/event.php on line 186
+[07-Sep-2018 15:56:37 America/Chicago] PHP Fatal error:  Call to undefined method Home_model::get_detail_event() in /home/incodder/public_html/lyra/application/controllers/Event.php on line 44
+[09-Sep-2018 15:14:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/incodder/public_html/lyra/application/views/eo/event_detail.php on line 53
+[09-Sep-2018 15:25:17 America/Chicago] PHP Fatal error:  Call to a member function segment() on a non-object in /home/incodder/public_html/lyra/application/views/eo/event_detail.php on line 1
+[10-Sep-2018 10:26:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/views/eo/event_detail.php on line 3
+[10-Sep-2018 10:46:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/eo/event_detail.php on line 63
+[11-Sep-2018 00:59:54 America/Chicago] PHP Parse error:  syntax error, unexpected ''",id_race,"'' (T_CONSTANT_ENCAPSED_STRING) in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 74
+[11-Sep-2018 01:00:19 America/Chicago] PHP Parse error:  syntax error, unexpected ''",id_race,"'' (T_CONSTANT_ENCAPSED_STRING) in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 74
+[11-Sep-2018 01:00:39 America/Chicago] PHP Parse error:  syntax error, unexpected ''",id_race,"'' (T_CONSTANT_ENCAPSED_STRING) in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 74
+[11-Sep-2018 01:01:05 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 85
+[11-Sep-2018 01:03:14 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 181
+[11-Sep-2018 01:04:01 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::all_results() in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 181
+[11-Sep-2018 01:04:17 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 181
+[11-Sep-2018 01:04:28 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 181
+[11-Sep-2018 01:06:02 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::fetchAll() in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 181
+[11-Sep-2018 01:10:03 America/Chicago] PHP Parse error:  syntax error, unexpected ''",id_race,"'' (T_CONSTANT_ENCAPSED_STRING) in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 74
+[11-Sep-2018 01:10:58 America/Chicago] PHP Parse error:  syntax error, unexpected ''",id_race,"'' (T_CONSTANT_ENCAPSED_STRING) in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 74
+[11-Sep-2018 01:12:54 America/Chicago] PHP Parse error:  syntax error, unexpected ''",id_race,"'' (T_CONSTANT_ENCAPSED_STRING) in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 74
+[11-Sep-2018 01:15:02 America/Chicago] PHP Parse error:  syntax error, unexpected '(' in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 71
+[11-Sep-2018 01:16:08 America/Chicago] PHP Parse error:  syntax error, unexpected ''",id_race,"'' (T_CONSTANT_ENCAPSED_STRING) in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 74
+[11-Sep-2018 07:16:23 America/Chicago] PHP Fatal error:  Call to undefined method Eo_model::get_race_val() in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 180
+[11-Sep-2018 07:30:48 America/Chicago] PHP Fatal error:  Call to undefined method Eo_model::get_race_val() in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 180
+[11-Sep-2018 07:30:56 America/Chicago] PHP Fatal error:  Call to undefined method Eo_model::get_race_val() in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 180
+[12-Sep-2018 04:24:38 America/Chicago] PHP Fatal error:  Cannot redeclare Eo_model::get_class() in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 89
+[12-Sep-2018 05:08:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'd' (T_STRING) in /home/incodder/public_html/lyra/application/models/Eo_model.php on line 103
+[12-Sep-2018 08:49:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 61
+[12-Sep-2018 08:50:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 61
+[12-Sep-2018 08:50:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 61
+[12-Sep-2018 08:50:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 61
+[12-Sep-2018 08:50:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 61
+[13-Sep-2018 10:29:14 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 10:29:45 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 10:30:21 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 10:30:53 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 10:31:25 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 10:31:55 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 10:37:04 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 10:37:34 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 11:39:54 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 11:40:24 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 11:40:55 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 11:41:27 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 11:43:36 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 11:44:08 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 12:10:40 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 12:11:12 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 12:42:20 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 12:42:52 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 12:52:32 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 12:53:04 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 13:27:18 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 13:27:49 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 14:13:47 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 14:14:20 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 14:19:12 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[13-Sep-2018 14:19:44 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[14-Sep-2018 02:52:02 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[14-Sep-2018 02:52:33 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[14-Sep-2018 06:58:18 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[14-Sep-2018 06:58:51 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[14-Sep-2018 13:49:51 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[14-Sep-2018 13:50:23 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[14-Sep-2018 13:52:17 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 54
+[14-Sep-2018 13:53:38 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 56
+[14-Sep-2018 13:54:41 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 56
+[14-Sep-2018 13:55:11 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 56
+[14-Sep-2018 13:57:07 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 56
+[14-Sep-2018 13:57:37 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 56
+[14-Sep-2018 14:00:33 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 56
+[14-Sep-2018 14:01:02 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 56
+[14-Sep-2018 14:09:08 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 56
+[14-Sep-2018 14:09:38 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 56
+[14-Sep-2018 14:11:30 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 32
+[14-Sep-2018 14:12:03 America/Chicago] PHP Fatal error:  Call to undefined method Master_model::get_dcp() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 32
+[14-Sep-2018 14:16:25 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:16:26 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:16:26 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:16:56 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:16:56 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:16:56 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:17:05 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:17:05 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:17:05 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:17:41 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:17:41 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:17:41 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 14:18:01 America/Chicago] PHP Parse error:  syntax error, unexpected '@', expecting '(' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 14
+[14-Sep-2018 16:21:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$d' (T_VARIABLE), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 49
+[14-Sep-2018 16:21:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$d' (T_VARIABLE), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 49
+[14-Sep-2018 16:21:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$d' (T_VARIABLE), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 49
+[15-Sep-2018 00:56:03 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/incodder/public_html/lyra/application/controllers/Club.php on line 273
+[15-Sep-2018 10:02:08 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 53
+[15-Sep-2018 10:02:08 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 53
+[15-Sep-2018 10:02:08 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 53
+[15-Sep-2018 10:41:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 146
+[15-Sep-2018 10:41:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 146
+[15-Sep-2018 10:41:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 146
+[15-Sep-2018 10:42:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 146
+[15-Sep-2018 10:42:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 146
+[15-Sep-2018 10:42:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 146
+[15-Sep-2018 10:43:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 147
+[15-Sep-2018 10:43:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 147
+[15-Sep-2018 10:43:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 147
+[15-Sep-2018 10:43:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 147
+[15-Sep-2018 10:43:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 147
+[15-Sep-2018 10:43:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 147
+[15-Sep-2018 10:43:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 147
+[15-Sep-2018 10:43:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 147
+[15-Sep-2018 10:43:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 147
+[15-Sep-2018 10:54:13 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 1
+[15-Sep-2018 10:54:13 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 1
+[15-Sep-2018 10:54:13 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 1
+[15-Sep-2018 11:42:08 America/Chicago] PHP Fatal error:  Call to undefined function profil() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 147
+[15-Sep-2018 11:45:53 America/Chicago] PHP Fatal error:  Call to undefined function profil() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 147
+[15-Sep-2018 13:18:48 America/Chicago] PHP Fatal error:  Call to undefined function row() in /home/incodder/public_html/lyra/application/controllers/Club_event.php on line 25
+[15-Sep-2018 13:19:38 America/Chicago] PHP Fatal error:  Call to undefined function row() in /home/incodder/public_html/lyra/application/controllers/Club_event.php on line 25
+[15-Sep-2018 14:20:22 America/Chicago] PHP Fatal error:  Call to undefined function profil() in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 152
+[15-Sep-2018 15:24:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 223
+[15-Sep-2018 15:38:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'red' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 44
+[15-Sep-2018 15:38:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'red' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 44
+[15-Sep-2018 15:38:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'red' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 44
+[15-Sep-2018 15:38:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'red' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 44
+[15-Sep-2018 15:38:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'red' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 44
+[15-Sep-2018 15:38:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'red' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 44
+[15-Sep-2018 15:40:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'form_error' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 168
+[15-Sep-2018 15:40:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'form_error' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 168
+[15-Sep-2018 15:40:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'form_error' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 168
+[15-Sep-2018 15:43:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'red' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 32
+[15-Sep-2018 15:43:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'red' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 32
+[15-Sep-2018 15:43:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'red' (T_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/athlete/profil.php on line 32
+[15-Sep-2018 16:10:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 176
+[15-Sep-2018 16:47:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:47:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:47:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:47:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:47:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:47:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:47:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:47:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:47:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:48:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:48:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:48:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 59
+[15-Sep-2018 16:48:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:48:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:48:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:49:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:49:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:49:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:49:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:49:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:49:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:50:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:50:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:50:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:50:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:50:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:50:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 16:52:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/models/Invoice_model.php on line 62
+[15-Sep-2018 17:15:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/incodder/public_html/lyra/application/controllers/Club.php on line 289
+[15-Sep-2018 17:17:40 America/Chicago] PHP Fatal error:  Call to undefined method Invoice_model::data() in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 141
+[15-Sep-2018 17:18:10 America/Chicago] PHP Fatal error:  Call to undefined method Invoice_model::data() in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 141
+[15-Sep-2018 17:19:08 America/Chicago] PHP Fatal error:  Call to undefined method Invoice_model::data() in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 137
+[15-Sep-2018 17:36:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 257
+[16-Sep-2018 13:31:40 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 66
+[16-Sep-2018 17:20:30 America/Chicago] PHP Parse error:  syntax error, unexpected '"> </th>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/print/invoice.php on line 20
+[16-Sep-2018 17:20:30 America/Chicago] PHP Parse error:  syntax error, unexpected '"> </th>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/print/invoice.php on line 20
+[16-Sep-2018 17:20:30 America/Chicago] PHP Parse error:  syntax error, unexpected '"> </th>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/incodder/public_html/lyra/application/views/print/invoice.php on line 20
+[16-Sep-2018 19:19:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/incodder/public_html/lyra/application/controllers/Login.php on line 99
+[17-Sep-2018 01:18:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/incodder/public_html/lyra/application/controllers/Club.php on line 165
+[17-Sep-2018 01:44:17 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/incodder/public_html/lyra/application/controllers/Login.php on line 93
+[17-Sep-2018 02:28:02 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/incodder/public_html/lyra/application/controllers/Club.php on line 65
+[17-Sep-2018 02:29:06 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/incodder/public_html/lyra/application/controllers/Club.php on line 65
+[17-Sep-2018 03:34:04 America/Chicago] PHP Fatal error:  Call to a member function get_race() on a non-object in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 184
+[17-Sep-2018 03:34:35 America/Chicago] PHP Fatal error:  Call to a member function get_race() on a non-object in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 184
+[17-Sep-2018 03:34:50 America/Chicago] PHP Fatal error:  Call to a member function get_race() on a non-object in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 184
+[17-Sep-2018 03:35:21 America/Chicago] PHP Fatal error:  Call to a member function get_race() on a non-object in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 184
+[17-Sep-2018 03:35:57 America/Chicago] PHP Fatal error:  Call to a member function get_race() on a non-object in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 184
+[17-Sep-2018 03:36:27 America/Chicago] PHP Fatal error:  Call to a member function get_race() on a non-object in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 184
+[17-Sep-2018 03:37:31 America/Chicago] PHP Fatal error:  Call to a member function get_race() on a non-object in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 184
+[17-Sep-2018 03:38:02 America/Chicago] PHP Fatal error:  Call to a member function get_race() on a non-object in /home/incodder/public_html/lyra/application/controllers/Athlete.php on line 184
+[17-Sep-2018 05:25:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 135
+[17-Sep-2018 05:26:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/incodder/public_html/lyra/application/controllers/Eo.php on line 137
+[18-Sep-2018 09:13:09 America/Chicago] PHP Fatal error:  Call to a member function detail() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:14:32 America/Chicago] PHP Fatal error:  Call to a member function detail() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:14:58 America/Chicago] PHP Fatal error:  Call to a member function detail() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:15:46 America/Chicago] PHP Fatal error:  Call to a member function detail() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:16:08 America/Chicago] PHP Fatal error:  Call to a member function details() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:16:48 America/Chicago] PHP Fatal error:  Call to a member function detail() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:17:41 America/Chicago] PHP Fatal error:  Call to a member function detail() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:18:13 America/Chicago] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 100
+[18-Sep-2018 09:18:32 America/Chicago] PHP Fatal error:  Call to a member function detail() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:18:50 America/Chicago] PHP Fatal error:  Call to a member function get_races() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:18:56 America/Chicago] PHP Fatal error:  Call to a member function get_races() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:20:06 America/Chicago] PHP Fatal error:  Call to undefined function peinr_r() in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:20:18 America/Chicago] PHP Fatal error:  Call to undefined function peint_r() in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 103
+[18-Sep-2018 09:20:55 America/Chicago] PHP Fatal error:  Call to a member function detail() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 102
+[18-Sep-2018 09:21:26 America/Chicago] PHP Fatal error:  Call to a member function get_races() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 107
+[18-Sep-2018 09:21:44 America/Chicago] PHP Fatal error:  Call to a member function data_invoices() on a non-object in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 108
+[18-Sep-2018 10:43:35 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/incodder/public_html/lyra/application/controllers/Event.php on line 46
+[18-Sep-2018 10:44:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'get' (T_STRING) in /home/incodder/public_html/lyra/application/models/Home_model.php on line 43
+[18-Sep-2018 10:44:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'get' (T_STRING) in /home/incodder/public_html/lyra/application/models/Home_model.php on line 43
+[18-Sep-2018 10:45:29 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/incodder/public_html/lyra/application/models/Home_model.php on line 43
+[18-Sep-2018 13:00:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/incodder/public_html/lyra/application/views/athlete/invoice.php on line 27
+[18-Sep-2018 13:00:46 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/incodder/public_html/lyra/application/views/athlete/invoice.php on line 27
+[18-Sep-2018 13:00:51 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/incodder/public_html/lyra/application/views/athlete/invoice.php on line 27
+[19-Sep-2018 03:21:26 America/Chicago] PHP Fatal error:  Call to undefined function row() in /home/incodder/public_html/lyra/application/models/Master_model.php on line 102
+[19-Sep-2018 03:28:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/incodder/public_html/lyra/application/models/Master_model.php on line 108
+[19-Sep-2018 05:01:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 76
+[19-Sep-2018 05:09:01 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/club/event_registrasi.php on line 151
+[19-Sep-2018 05:18:01 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/incodder/public_html/lyra/application/views/athlete/event.php on line 13
+[19-Sep-2018 14:13:59 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/incodder/public_html/lyra/application/views/club/athlete.php on line 15
+[19-Sep-2018 14:18:24 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/incodder/public_html/lyra/application/views/club/athlete.php on line 21
+[20-Sep-2018 11:19:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/incodder/public_html/lyra/application/models/Club_model.php on line 61
+[20-Sep-2018 11:19:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/incodder/public_html/lyra/application/models/Club_model.php on line 61
+[20-Sep-2018 11:19:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/incodder/public_html/lyra/application/models/Club_model.php on line 61
+[20-Sep-2018 11:58:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/incodder/public_html/lyra/application/views/invoice/invoice_detail.php on line 172
+[20-Sep-2018 12:27:12 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/incodder/public_html/lyra/application/controllers/Invoice.php on line 84
+[20-Sep-2018 12:59:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/views/athlete/invoice.php on line 44
+[21-Sep-2018 00:34:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/incodder/public_html/lyra/application/views/invoice/invoice_detail.php on line 43
+[21-Sep-2018 07:17:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/views/invoice/invoice_detail.php on line 51
+[21-Sep-2018 07:18:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/views/invoice/invoice_detail.php on line 51
+[21-Sep-2018 07:18:13 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/incodder/public_html/lyra/application/views/invoice/invoice_detail.php on line 51
+[21-Sep-2018 07:18:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/incodder/public_html/lyra/application/views/invoice/invoice_detail.php on line 49
+[21-Sep-2018 07:37:08 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home/incodder/public_html/lyra/application/models/Athlete_Model.php on line 22
+[21-Sep-2018 07:37:23 America/Chicago] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/incodder/public_html/lyra/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:39:09 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:39:13 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:39:15 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:39:23 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:39:51 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:40:11 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:40:40 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:40:43 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:40:45 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:40:55 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:40:57 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:45:49 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:54:36 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:54:42 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 02:59:03 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 05:33:52 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 05:34:00 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 05:34:37 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 05:35:38 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 05:46:41 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 05:56:57 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 05:56:58 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 06:31:59 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 06:52:37 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 06:53:43 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 07:01:19 America/Chicago] PHP Fatal error:  Call to undefined function dei() in /home4/infokalamaya/netskate.id/application/controllers/Login.php on line 59
+[22-Sep-2018 08:06:06 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 08:41:21 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 08:42:20 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 09:02:38 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 09:05:25 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 09:06:28 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 09:08:09 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 09:08:54 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 09:09:40 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 09:09:55 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[22-Sep-2018 10:07:06 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[23-Sep-2018 23:07:58 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Invoice_model.php on line 119
+[02-Oct-2018 09:58:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR) in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 59
+[02-Oct-2018 09:58:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR) in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 59
+[02-Oct-2018 09:58:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR) in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 59
+[10-Oct-2018 22:42:55 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Club_model.php on line 157
+[10-Oct-2018 22:47:27 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Club_model.php on line 157
+[10-Oct-2018 22:48:47 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Club_model.php on line 157
+[10-Oct-2018 22:48:50 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Club_model.php on line 157
+[10-Oct-2018 23:09:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 123
+[10-Oct-2018 23:09:51 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 123
+[10-Oct-2018 23:09:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 123
+[10-Oct-2018 23:14:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 151
+[10-Oct-2018 23:14:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 151
+[10-Oct-2018 23:14:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 151
+[10-Oct-2018 23:14:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 151
+[10-Oct-2018 23:14:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 151
+[10-Oct-2018 23:18:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 137
+[10-Oct-2018 23:18:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 137
+[10-Oct-2018 23:18:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 137
+[10-Oct-2018 23:18:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 140
+[10-Oct-2018 23:18:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 140
+[10-Oct-2018 23:18:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 143
+[10-Oct-2018 23:19:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 143
+[10-Oct-2018 23:19:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 143
+[10-Oct-2018 23:19:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/infokalamaya/netskate.id/application/views/club/event_registrasi.php on line 143
+[26-Oct-2018 02:55:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:55:14 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:55:17 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:55:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:55:21 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:55:23 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:55:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:55:32 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:55:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:56:14 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:56:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 02:56:16 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 360
+[26-Oct-2018 03:14:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'result' (T_STRING) in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 343
+[26-Oct-2018 03:15:24 America/Chicago] PHP Fatal error:  Call to undefined function result() in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 343
+[26-Oct-2018 03:16:50 America/Chicago] PHP Fatal error:  Call to undefined function result() in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 343
+[26-Oct-2018 03:18:49 America/Chicago] PHP Fatal error:  Call to undefined function result() in /home4/infokalamaya/netskate.id/application/controllers/Eo.php on line 343
+[29-Nov-2018 12:11:48 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[29-Nov-2018 12:11:51 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home4/infokalamaya/netskate.id/application/models/Athlete_Model.php on line 22
+[30-Nov-2018 03:03:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/infokalamaya/netskate.id/application/views/club/dashboard.php on line 8
+[30-Nov-2018 03:03:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/infokalamaya/netskate.id/application/views/club/dashboard.php on line 8
+[30-Nov-2018 03:03:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/infokalamaya/netskate.id/application/views/club/dashboard.php on line 8
+[30-Nov-2018 03:03:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/infokalamaya/netskate.id/application/views/club/dashboard.php on line 8
+[30-Nov-2018 03:03:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/infokalamaya/netskate.id/application/views/club/dashboard.php on line 8
+[30-Nov-2018 03:03:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/infokalamaya/netskate.id/application/views/club/dashboard.php on line 8

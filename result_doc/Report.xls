@@ -1,0 +1,105 @@
+
+ <table border="1s">
+                <thead>
+                    <tr>
+                        <th>Team Name</th>
+                        <th>Club Name</th>
+                        <th>BIB</th>
+                        <th>Athlete Name</th>
+                        <th>Category</th>
+                       
+                    </tr>
+                </thead>
+                <tbody>
+                                            <tr>
+                            <td>Balance CD Speed 1</td>
+                            <td>BALANCE Bandung</td>
+                            <td>106</td>
+                            <td>Aina Rahma Saffi</td>
+                            <td>C D SPEED</td>
+                           
+                        
+                            
+                        </tr>
+                                            <tr>
+                            <td>Balance CD Speed 1</td>
+                            <td>BALANCE Bandung</td>
+                            <td>107</td>
+                            <td>Bey Satria Dharmadityo</td>
+                            <td>C D SPEED</td>
+                           
+                        
+                            
+                        </tr>
+                                            <tr>
+                            <td>Balance AB Standar 1</td>
+                            <td>BALANCE Bandung</td>
+                            <td>102</td>
+                            <td>Bunga Ariqah Humaira</td>
+                            <td>A B STANDARD</td>
+                           
+                        
+                            
+                        </tr>
+                                            <tr>
+                            <td>Balance AB Standar 1</td>
+                            <td>BALANCE Bandung</td>
+                            <td>103</td>
+                            <td>Chandni Fathima Djajadikarta</td>
+                            <td>A B STANDARD</td>
+                           
+                        
+                            
+                        </tr>
+                                            <tr>
+                            <td>Balance AB Standar 1</td>
+                            <td>BALANCE Bandung</td>
+                            <td>105</td>
+                            <td>Jeanne Kimberly Chan</td>
+                            <td>A B STANDARD</td>
+                           
+                        
+                            
+                        </tr>
+                                            <tr>
+                            <td></td>
+                            <td>BALANCE Bandung</td>
+                            <td>109</td>
+                            <td>Jibril Khairy Malik</td>
+                            <td>A B STANDARD</td>
+                           
+                        
+                            
+                        </tr>
+                                            <tr>
+                            <td></td>
+                            <td>BALANCE Bandung</td>
+                            <td>104</td>
+                            <td>Julie Dwi Anisha Ruhupatty</td>
+                            <td>A B STANDARD</td>
+                           
+                        
+                            
+                        </tr>
+                                            <tr>
+                            <td>Balance CD Speed 1</td>
+                            <td>BALANCE Bandung</td>
+                            <td>108</td>
+                            <td>Leika Di Comar</td>
+                            <td>C D SPEED</td>
+                           
+                        
+                            
+                        </tr>
+                                            <tr>
+                            <td></td>
+                            <td>BALANCE Bandung</td>
+                            <td>101</td>
+                            <td>Rallysya Lenka Baheramsyah</td>
+                            <td>A B STANDARD</td>
+                           
+                        
+                            
+                        </tr>
+                                    </tbody>
+            </table>
